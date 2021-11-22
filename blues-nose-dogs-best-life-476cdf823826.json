@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blues-nose-dogs-best-life",
+  "private_key_id": "476cdf823826d33902e5be888c5af5a113e33efd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCudWGw7AnYfjGa\n2n2kMmY0qKofN5mC6wxXyiOpj3YeDr8F8+z/m9WIESqXhQJ1FRhPiclicMp8ga+h\n96YPmIi0E5SphEJsjYyTqyr2MAe9vbU8WH6sWyUPT6gzdujU8y73wc8Yf6sGhkwD\n85/HcYnn7r0XQW0jHbTvS0JppVdkPC8w9ymJDqP9BcWkrA51g2RGxOeqMBAkU+tK\n089uVFihdz6OGfD/L89lVI1h3lkOkljnV9dSp7HXns6/j3F8kny4S9z0Pe41xgjX\nc8o/gMTfou+UASrslplbMqXJE7EKpONNJC+to9h4dB5VJYntd/9AqVxrx580B6TJ\n0k3y9dr9AgMBAAECggEAApFg2GNGpNL8sdURk6sxpNV7uMOcGDJGzciaD3rSKAPO\nQE0hTRGssH9IlqjcsT9ksRA4sHqAPIA5k9Z9/jPf66Vv7+Vt7d4EHPNTloKWYC6/\n6wa5b80hDBF/cULiW/be/alMZIWsJu370sFEaSgTOdPIuqQm2IuG8eonbNmQ1WPL\nXKYpdk9yP5gg6qTjQGZiBq5zsh1bvVnwQplTft15Oks4P4CU3s9OW9WS6mPjK6ku\nb0Qf6SiTuCi1uMoV7H1rxKtj19QrJsI8bq2UntO/dFE3fWtIbQ55lm6O5YITOKnz\nTWSYFbYga9MLM3JK3c5jDOCf2zLOwMkJYvLMl95OOQKBgQDggEtEIwXgYU3nPxYc\nrZOFSVTyL1QLH1v9Tff0fU0u6Q/2wrxCuRcKSLhzHdRbRoc4FAFPjAUHwbd8Dj4Y\nDzh0TY3j10IrGLn/rfnsEezChytA7Pj7+l+e8gIEAOmaWybELdCUJw7cpbsFSs9T\nd+edzxGm8iXtMzRWQrmNuZW0uQKBgQDG76PdhitvD3GelHNuysfboQz6TjHXvihE\nCnn77kNQQyigR6mj34h9lK+l4Q0RINAfNRa2WtPYbMFP7tFhBgbjA5YR132DJjuH\nM3o9ZRCEhjoV2YcoBcKEZODuMbABZEBWJqOIcX6QRvFaFoGZYWTlbWE3mUZPlqYs\nQff6f0b+ZQKBgQCbhwWdjI3TplVr8H6HG5Dpc6YPqc4VboIx98PhcrT33Kocj0gR\nCVz22O4/gdjN6wxeQy2tSBlsCD3vCYbm8BRyLhAwWb4TUSv5/zL24mwdT7sdXY4Y\nMpnv6USQNXmgX6l5myu2l2BqZ74qqmr7LkQdRYi7GWJA84o8gDk//+PAsQKBgGWS\nugJDnS2pnwOvHHk3RHBZfLzY7A4R45FKIBqH/wqeH8ImlPE9Ev27yytRC1DxhhJJ\nEv2sxnm8nb9oWrPFVgLXM+qMMmOiQ8a2e/WZAqQHvOSnGqFOv5DFySsVZ55uR4M1\nW04xVMPp1RWAZE+iMNgLzxWKRyIf81ypminmjqMZAoGBAN+xrrg829ghcsezeZR3\nvv74lh6kV2badZxW98F1mCT1TllVUCx2Qyb2/OMbbZNWI8AQXeAlbk4P7fXp/iZm\n02IQeolke3yEPARwAaXhYhL8CHerFLD+8Nkj42pMiV3iz41J0ty3NSes05dADEoa\nT4rB2pQGyed4FQTvhZoaxeda\n-----END PRIVATE KEY-----\n",
+  "client_email": "bm-agent@blues-nose-dogs-best-life.iam.gserviceaccount.com",
+  "client_id": "104445652004643680375",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bm-agent%40blues-nose-dogs-best-life.iam.gserviceaccount.com"
+}
